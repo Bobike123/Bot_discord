@@ -1,0 +1,26 @@
+{
+  "name": "bot_discord",
+  "version": "1.0.0",
+  "description": "Cel mai smecher bot care nu merge",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bob the builder",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.8.2",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@discordjs/voice": "^0.7.5",
+    "discord-api-types": "^0.24.0",
+    "discord-tts": "^1.2.1",
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.12.3",
+    "dotenv": "^10.0.0",
+    "opusscript": "^0.0.8",
+    "secret": "^1.2.0",
+    "voice": "^0.0.0",
+    "yt-search": "^2.10.2",
+    "ytdl-core": "^4.9.1"
+  }
+}
